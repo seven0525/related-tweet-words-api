@@ -11,7 +11,6 @@ MarkupSafe==1.1.1
 oauthlib==3.0.1
 requests==2.21.0
 requests-oauthlib==1.2.0
-termextract==0.12b0
 twitter==1.18.0
 urllib3==1.24.1
 Werkzeug==0.15.1

@@ -4,7 +4,7 @@ termextract.japanese_paintext.py
 
 import re
 
-import termextract.core
+import core
 
 IGNORE_WORDS = set([])  # 重要度計算外とする語
 
@@ -112,4 +112,4 @@ def cmp_noun_dict(data):
     複合語（単名詞の空白区切り）をキーに、その出現回数を値にしたディクショナリを返す
     """
     cmp_noun = cmp_noun_list(data)
-    return termextract.core.list2dict(cmp_noun)
+    return core.list2dict(cmp_noun)
