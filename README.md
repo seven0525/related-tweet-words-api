@@ -8,7 +8,8 @@ Twitterのデータから、指定したフレーズ（ワード）を含むツ�
   
 
 #### アプリイメージ(ターミナルから直接実行する法法)
-![](images/result_1.png)
+
+<img src="images/result_1.png" width=50%>
    
 ![](images/result_2.png)
 
