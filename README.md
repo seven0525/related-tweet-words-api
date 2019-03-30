@@ -11,7 +11,7 @@ Twitterのデータから、指定したフレーズ（ワード）を含むツ�
 
 <img src="images/result_1.png" width=50%>
    
-![](images/result_2.png)
+<img src="images/result_2.png" width=50%>
 
    
 
