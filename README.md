@@ -37,4 +37,6 @@ Twitterのデータから、指定したフレーズ（ワード）を含むツ�
 curl -X POST -H "Content-Type: application/json" -d '{"key_word":"転職したい"}' https://related-tweet-words-api.herokuapp.com/post
 ```
 
+ローカルにクローンして実行する場合は、自身のTwitterAPIのTokenに値を書き換えてください。
+
 **Copyright © Taichi Watanabe. All Rights Reserved.**
