@@ -29,7 +29,6 @@ Twitterのデータから、指定したフレーズ（ワード）を含むツ�
 
 ```
 curl -X POST -H "Content-Type: application/json" -d '{"key_word":"転職したい"}' https://related-tweet-words-api.herokuapp.com/post
-
 ```
 
 **Copyright © Taichi Watanabe. All Rights Reserved.**
