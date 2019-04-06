@@ -1,4 +1,4 @@
-# 関連ツイート取得API
+# 関連ツイート取得API（AI APIコンテストにて「AI NOW賞」受賞）
 
 ## APIの説明
 
@@ -38,5 +38,8 @@ curl -X POST -H "Content-Type: application/json" -d '{"key_word":"転職した�
 ```
 
 ローカルにクローンして実行する場合は、自身のTwitterAPIのTokenに値を書き換えてください。
+
+## AI APIコンテストにて「AI NOW賞」を受賞させていただきました！（4/7更新）
+記事にもなるそうなので、記事完成し次第追記します。
 
 **Copyright © Taichi Watanabe. All Rights Reserved.**
